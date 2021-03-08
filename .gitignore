@@ -1,0 +1,7 @@
+minikube.exe
+kustomize.exe
+
+**/.history/**
+**/istio-1.10.3/
+**/node_modules/**
+**/logs
